@@ -1,4 +1,4 @@
-var access_token = "222401a7cf70954f1fa09d74d37e948ff1d48b3f";
+var access_token = "";
 
 // get user info
 function getUserInfo(username){
